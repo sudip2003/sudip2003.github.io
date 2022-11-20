@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Lorem Ipsum project
+title: Wission
 description: Description for Seo
-summary: Some summary of project
+summary: Community platform to help like-minded people meet 
 category: Project category
 ---
 
